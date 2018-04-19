@@ -42,10 +42,8 @@ For ease of use, the grid is divided into 4 containers. Choose the container you
 Change the text color from black to white  
 >
     #rec {
-      color: #fff;
+      color: #e1e3e4;
     }
-
-
 
 [id1]: https://jsfiddle.net/madeas/n58mb8en/ "Code example on JSFiddle"
 [id2]: https://madeas.ru/css/jsfiddle-layouts.css "jsfiddle-layouts.css"
