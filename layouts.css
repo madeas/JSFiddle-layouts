@@ -1,0 +1,48 @@
+#layout label .gridMode.grid_1:before {
+    top: 0;
+    left: 49%;
+    bottom: 0;
+    width: 1px;
+}
+#layout label .gridMode.grid_1:after {
+    top: 49%;
+    left: 0;
+    right: 0;
+    height: 1px;
+}
+#layout label .gridMode.grid_2:before {
+    top: 0;
+    left: 66%;
+    bottom: 0;
+    width: 1px;
+}
+#layout label .gridMode.grid_2:after {
+    top: 0;
+    left: 33%;
+    bottom: 0;
+    width: 1px;
+}
+#layout label .gridMode.grid_3:before {
+    top: 50%;
+    left: 0;
+    right: 0;
+    height: 1px;
+}
+#layout label .gridMode.grid_3:after {
+    top: 0;
+    left: 49%;
+    height: 50%;
+    width: 1px;
+}
+#layout label .gridMode.grid_4:before {
+    top: 0;
+    bottom: 0;
+    right: 49%;
+    width: 1px;
+}
+#layout label .gridMode.grid_4:after {
+    top: 49%;
+    left: 0;
+    width: 50%;
+    height: 1px;
+}
