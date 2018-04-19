@@ -35,7 +35,7 @@ For ease of use, the grid is divided into 4 containers. Choose the container you
         </label>
       </div>
     </div>
-    <!--/ jsfiddle-layouts.css --->
+    <!--/ jsfiddle-layouts.css -->
 
 **grid_4** change to any of the four
 
