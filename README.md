@@ -10,7 +10,7 @@ For ease of use, the grid is divided into 4 containers. Choose the container you
 1. insert in **Resources - URL** a code snippet or link [link][id2] on the JSFiddle website
 2. copy the desired fragment of the html grid and install it into your project:  
 >
-    <div id="rec">
+    <div class="rec">
     <em>Recommended layout</em>
     </div>
 ### add  
@@ -25,7 +25,7 @@ For ease of use, the grid is divided into 4 containers. Choose the container you
 ### result
 >
     <!-- jsfiddle-layouts.css -->
-    <div id="rec">
+    <div class="rec">
       <em>Recommended layout</em>
       <div class="layout">
         <label>
@@ -41,12 +41,10 @@ For ease of use, the grid is divided into 4 containers. Choose the container you
 
 [View example on JSFiddle][id3]
 
-Change the text color from black to white  
+Change the text color from black to white - add class **invers**
 >
-    #rec {
-      color: #e1e3e4;
-    }
+    <div class="rec invers">
 
-[id1]: https://jsfiddle.net/madeas/n58mb8en/ "Code example on JSFiddle"
+[id1]: https://jsfiddle.net/madeas/d6uy0gea/ "Code example on JSFiddle"
 [id2]: https://madeas.ru/css/jsfiddle-layouts.css "jsfiddle-layouts.css"
 [id3]: https://jsfiddle.net/madeas/0397xegj/ "Full example on JSFiddle"
