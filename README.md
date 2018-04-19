@@ -37,7 +37,7 @@ For ease of use, the grid is divided into 4 containers. Choose the container you
     </div>
     <!--/ jsfiddle-layouts.css -->
 
-**grid_4** change to any of the four
+To change the layout, edit the **grid_4** digit to 1, 2 or 3, and the **span** content to Classic, Columns, Bottom results.
 
 [View example on JSFiddle][id3]
 
