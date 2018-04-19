@@ -45,6 +45,6 @@ Change the text color from black to white - add class **invers**
 >
     <div class="rec invers">
 
-[id1]: https://jsfiddle.net/madeas/d6uy0gea/ "Code example on JSFiddle"
+[id1]: https://jsfiddle.net/madeas/ouLehk70/ "Code example on JSFiddle"
 [id2]: https://madeas.ru/css/jsfiddle-layouts.css "jsfiddle-layouts.css"
-[id3]: https://jsfiddle.net/madeas/0397xegj/ "Full example on JSFiddle"
+[id3]: https://jsfiddle.net/madeas/bnm51y5r/ "Full example on JSFiddle"
