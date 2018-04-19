@@ -24,6 +24,7 @@ For ease of use, the grid is divided into 4 containers. Choose the container you
     </div>
 ### result
 >
+    <!-- jsfiddle-layouts.css -->
     <div id="rec">
       <em>Recommended layout</em>
       <div class="layout">
@@ -34,6 +35,7 @@ For ease of use, the grid is divided into 4 containers. Choose the container you
         </label>
       </div>
     </div>
+    <!--/ jsfiddle-layouts.css --->
 
 **grid_4** change to any of the four
 
