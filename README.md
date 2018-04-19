@@ -47,4 +47,4 @@ Change the text color from black to white - add class **invers**
 
 [id1]: https://jsfiddle.net/madeas/ouLehk70/ "Code example on JSFiddle"
 [id2]: https://madeas.ru/css/jsfiddle-layouts.css "jsfiddle-layouts.css"
-[id3]: https://jsfiddle.net/madeas/bnm51y5r/ "Full example on JSFiddle"
+[id3]: https://jsfiddle.net/madeas/b0oL001v/ "Full example on JSFiddle"
