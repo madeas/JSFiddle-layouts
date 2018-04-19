@@ -7,7 +7,7 @@ For ease of use, the grid is divided into 4 containers. Choose the container you
 
 ## Application
 
-1. insert in **Resources - URL** a code snippet or link [link][id2] on the JSFiddle website
+1. insert in **Resources - URL** a code snippet or [link][id2] on the JSFiddle website
 2. copy the desired fragment of the html grid and install it into your project:  
 >
     <div class="rec">
