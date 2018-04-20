@@ -1,6 +1,6 @@
 # JSFiddle Recommended Layouts
 
-<a href="/LICENSE.md"><img src="https://camo.githubusercontent.com/85e1dd5bc10efc714bde30575f2ba9720ef1d235/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f6c2f6e6f726d616c697a652e6373732e7376673f7374796c653d666c61742d737175617265" alt="license" style="max-width:100%;"></a> <a href="/CHANGELOG.md"><img src="https://camo.githubusercontent.com/e105f99fc4e9949b153a9de29f1eadbc3c33df23/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6368616e67656c6f672d6d642d626c75652e7376673f7374796c653d666c61742d737175617265" alt="changelog" style="max-width:100%;"></a>
+<a href="/LICENSE.md"><img src="http://madeas.ru/img/git/mit.svg" alt="license" ></a> <a href="/CHANGELOG.md"><img src="http://madeas.ru/img/git/changelog.svg" alt="changelog"></a>
 
 Hey, folks!  
 The grid data can be used as a tool for users, for a more convenient viewing of your creation on JSFiddle.  
@@ -48,8 +48,8 @@ See https://madeas.ru/css/jsfiddle-layouts.css
     </div>
     <!--/ jsfiddle-layouts.css -->
 
-To change the layout, edit the **grid_4** digit to 1, 2 or 3, and the **span** content to Classic, Columns, Bottom results.
-<a href="/layouts"><img src="http://madeas.ru/img/git/layout.svg" alt="changelog" style="max-width:100%;"></a>
+To change the layout, edit the **grid_4** digit to 1, 2 or 3, and the **span** content to Classic, Columns, Bottom results.  
+<a href="/layouts"><img src="http://madeas.ru/img/git/layout.svg" alt="layout"></a>
 #### Example
 See [on JSFiddle][id3]
 
