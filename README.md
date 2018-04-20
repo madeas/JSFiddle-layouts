@@ -5,6 +5,8 @@ The grid data can be used as a tool for users, for a more convenient viewing of 
 For ease of use, the grid is divided into 4 containers. Choose the container you need and paste it into your project on the jsfiddle.  
 [Code example on JSFiddle][id1]
 
+<a href="/madeas/JSFiddle-layouts/blob/master/LICENSE.md"><img src="https://camo.githubusercontent.com/85e1dd5bc10efc714bde30575f2ba9720ef1d235/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f6c2f6e6f726d616c697a652e6373732e7376673f7374796c653d666c61742d737175617265" alt="license" data-canonical-src="https://img.shields.io/npm/l/normalize.css.svg?style=flat-square" style="max-width:100%;"></a> <a href="/madeas/JSFiddle-layouts/blob/master/CHANGELOG.md"><img src="https://camo.githubusercontent.com/e105f99fc4e9949b153a9de29f1eadbc3c33df23/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6368616e67656c6f672d6d642d626c75652e7376673f7374796c653d666c61742d737175617265" alt="changelog" data-canonical-src="https://img.shields.io/badge/changelog-md-blue.svg?style=flat-square" style="max-width:100%;"></a>
+
 ## Application
 
 1. insert in **Resources - URL** a code snippet or [link][id2] on the JSFiddle website
