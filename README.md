@@ -93,6 +93,7 @@ You can also copy all the code and specify the recommended fragment in it by add
             Right results
           </label>
         </div>
+        <small>JSFiddle-layouts — <a href="https://github.com/madeas/JSFiddle-layouts" title="" target="_blank">GitHub</a></small>
     </div>
     <!--/ jsfiddle-layouts.css -->
 
