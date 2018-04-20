@@ -114,5 +114,5 @@ See [on JSFiddle][id4]
 
 [id1]: https://jsfiddle.net/madeas/ouLehk70/ "Code example on JSFiddle"
 [id2]: https://madeas.ru/css/jsfiddle-layouts.css "jsfiddle-layouts.css"
-[id3]: https://jsfiddle.net/madeas/q2p2ydk6/ "Full example on JSFiddle"
+[id3]: https://jsfiddle.net/madeas/q2p2ydk6/3/ "Full example on JSFiddle"
 [id4]: https://jsfiddle.net/madeas/L54xt3ej/ "Example on JSFiddle"
