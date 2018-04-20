@@ -95,7 +95,7 @@ You can also copy all the code and specify the recommended fragment in it by add
         </div>
     </div>
 <!--/ jsfiddle-layouts.css -->
-On example of an active class grid_1 [View on JSFiddle][id3]
+On example of an active class grid_1 [View on JSFiddle][id4]
 
 [id1]: https://jsfiddle.net/madeas/ouLehk70/ "Code example on JSFiddle"
 [id2]: https://madeas.ru/css/jsfiddle-layouts.css "jsfiddle-layouts.css"
