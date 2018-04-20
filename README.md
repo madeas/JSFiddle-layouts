@@ -68,7 +68,7 @@ You can also copy all the code and specify the recommended fragment in it by add
         <div class="layout">
           <label>
             <input name="editor_mode" type="radio" value="grid_1">
-            <span class="gridMode grid_1"></span>
+            <span class="gridMode active grid_1"></span>
             Classic
           </label>
         </div>
