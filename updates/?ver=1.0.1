@@ -2,23 +2,122 @@
  * jsfiddle-layouts.css - https://github.com/madeas/JSFiddle-layouts/blob/master/jsfiddle-layouts.css
  * Copyright 2018 Andrej Sharapov
  * 
- * Version 1.0.1
  * Licensed under MIT - https://opensource.org/licenses/mit-license.html
  */
- 
- .rec {
-  -webkit-transition: all .25s ease-in-out;
-  -moz-transition: all .25s ease-in-out;
-  transition: all .25s ease-in-out;
+
+ * {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
-.rec small a {
+.rec {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  background: linear-gradient(35deg, rgba(255 ,255, 255, 0.58) 0%, rgba(13, 135, 255, 0) 100%);
+  padding: 10px 20px;
+  border-radius: 6px;
   color: #424242;
-  text-decoration: none;
 }
-.rec.invers,
-.rec.invers small a {
+.rec.invers {
   color: #e1e3e4;
 }
-.rec.invers small a:hover {
-  color: #fff;
+.rec em {
+  position: relative;
+  font-style: normal;
+  line-height: 1.5;
+}
+.layout {
+  margin-bottom: 10px;
+}
+.layout label input {
+  display: none;
+}
+.layout label:last-child {
+  margin-bottom: 0;
+}
+.layout label {
+  display: block;
+  cursor: pointer;
+  vertical-align: middle;
+  margin-bottom: 10px;
+}
+.layout label .gridMode {
+  height: 24px;
+  width: 28px;
+  display: inline-block;
+  border-radius: 3px;
+  position: relative;
+  border: 1px solid #e1e3e4;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+.layout .gridMode.active,
+.layout label input:checked+.gridMode {
+  border: 1px solid #158df6;
+  background: #158df6;
+}
+.layout label input:checked+.gridMode:after,
+.layout label input:checked+.gridMode:before {
+  background: #fff;
+}
+.layout label .gridMode:after,
+.layout label .gridMode:before {
+  content: "";
+  position: absolute;
+  background: #e1e3e4;
+}
+/* ----- grids style ----- */
+
+.layout label .gridMode.grid_1:before {
+  top: 0;
+  left: 49%;
+  bottom: 0;
+  width: 1px;
+}
+.layout label .gridMode.grid_1:after {
+  top: 49%;
+  left: 0;
+  right: 0;
+  height: 1px;
+}
+
+.layout label .gridMode.grid_2:before {
+  top: 0;
+  left: 66%;
+  bottom: 0;
+  width: 1px;
+}
+.layout label .gridMode.grid_2:after {
+  top: 0;
+  left: 33%;
+  bottom: 0;
+  width: 1px;
+}
+
+.layout label .gridMode.grid_3:before {
+  top: 50%;
+  left: 0;
+  right: 0;
+  height: 1px;
+}
+.layout label .gridMode.grid_3:after {
+  top: 0;
+  left: 49%;
+  height: 50%;
+  width: 1px;
+}
+
+.layout label .gridMode.grid_4:before {
+  top: 0;
+  bottom: 0;
+  right: 49%;
+  width: 1px;
+}
+.layout label .gridMode.grid_4:after {
+  top: 49%;
+  left: 0;
+  width: 50%;
+  height: 1px;
 }
