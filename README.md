@@ -63,7 +63,7 @@ Change the text color from black to white - add class **invers**
 You can also copy all the code and specify the recommended fragment in it by adding the **active** class
 >
     <!-- jsfiddle-layouts.css -->
-    <div class="rec invers">
+    <div class="rec">
         <em>Recommended layout</em>
         <div class="layout">
           <label>
