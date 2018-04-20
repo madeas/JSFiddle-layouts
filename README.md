@@ -49,7 +49,7 @@ See https://madeas.ru/css/jsfiddle-layouts.css
     <!--/ jsfiddle-layouts.css -->
 
 To change the layout, edit the **grid_4** digit to 1, 2 or 3, and the **span** content to Classic, Columns, Bottom results.
-<a href="/layouts"><img src="http://madeas.ru/img/git/layouts.svg" alt="changelog" style="max-width:100%;"></a>
+<a href="/layouts"><img src="http://madeas.ru/img/git/layout.svg" alt="changelog" style="max-width:100%;"></a>
 #### Example
 See [on JSFiddle][id3]
 
