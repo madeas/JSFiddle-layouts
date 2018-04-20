@@ -110,7 +110,6 @@ On example of an active class grid_1
 #### Example
 See [on JSFiddle][id4]
 
-![JSFiddle-Layouts](https://madeas.ru/wp-content/uploads/2018/04/bg-art_22.png "JSFiddle Recommended Layouts")
 
 [id1]: https://jsfiddle.net/madeas/ouLehk70/2/ "Code example on JSFiddle"
 [id2]: https://madeas.ru/css/jsfiddle-layouts.css "jsfiddle-layouts.css"
