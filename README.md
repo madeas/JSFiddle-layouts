@@ -1,6 +1,7 @@
 # JSFiddle Recommended Layouts
 
-<a href="/LICENSE.md"><img src="http://madeas.ru/img/git/mit.svg" alt="license" ></a> <a href="/CHANGELOG.md"><img src="http://madeas.ru/img/git/changelog.svg" alt="changelog"></a>
+<a href="/LICENSE.md"><img src="http://madeas.ru/img/git/mit.svg" alt="license" ></a> 
+<a href="/CHANGELOG.md"><img src="http://madeas.ru/img/git/changelog.svg" alt="changelog"></a>
 
 Hey, folks!  
 The grid data can be used as a tool for users, for a more convenient viewing of your creation on JSFiddle.  
