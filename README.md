@@ -62,7 +62,7 @@ Change the text color from black to white - add class **invers**
     
 You can also copy all the code and specify the recommended fragment in it by adding the **active** class
 >
-<!-- jsfiddle-layouts.css -->
+    <!-- jsfiddle-layouts.css -->
     <div class="rec invers">
         <em>Recommended layout</em>
         <div class="layout">
@@ -94,7 +94,8 @@ You can also copy all the code and specify the recommended fragment in it by add
           </label>
         </div>
     </div>
-<!--/ jsfiddle-layouts.css -->
+    <!--/ jsfiddle-layouts.css -->
+
 On example of an active class grid_1 [View on JSFiddle][id4]
 
 [id1]: https://jsfiddle.net/madeas/ouLehk70/ "Code example on JSFiddle"
