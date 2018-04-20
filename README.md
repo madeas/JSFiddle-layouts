@@ -16,7 +16,7 @@ For ease of use, the grid is divided into 4 containers. Choose the container you
     </div>
     <!--/ jsfiddle-layouts.css -->
     
-### add  
+### + add  
 >
     <div class="layout">
         <label>
@@ -26,7 +26,7 @@ For ease of use, the grid is divided into 4 containers. Choose the container you
         </label>
     </div>
     
-### result
+### = result
 >
     <!-- jsfiddle-layouts.css -->
     <div class="rec">
