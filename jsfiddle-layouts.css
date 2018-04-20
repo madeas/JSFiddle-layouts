@@ -25,15 +25,11 @@
   transition: all .25s ease-in-out;
   z-index: 999;
 }
-.rec.invers {
-  color: #e1e3e4;
-}
 .rec em {
   position: relative;
   font-style: normal;
   line-height: 1.5;
 }
-.rec .small,
 .rec small {
   font-size:70%;
   font-weight:400;
