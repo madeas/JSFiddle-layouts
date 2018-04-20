@@ -2,14 +2,15 @@
  * jsfiddle-layouts.css - https://github.com/madeas/JSFiddle-layouts/blob/master/jsfiddle-layouts.css
  * Copyright 2018 Andrej Sharapov
  * 
+ * Version 1.0.1
  * Licensed under MIT - https://opensource.org/licenses/mit-license.html
  */
 
  * {
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 .rec {
   position: fixed;
@@ -19,6 +20,9 @@
   padding: 10px 20px;
   border-radius: 6px;
   color: #424242;
+  -webkit-transition: all .25s ease-in-out;
+  -moz-transition: all .25s ease-in-out;
+  transition: all .25s ease-in-out;
 }
 .rec.invers {
   color: #e1e3e4;
@@ -27,6 +31,27 @@
   position: relative;
   font-style: normal;
   line-height: 1.5;
+}
+.rec .small,
+.rec small {
+  font-size:70%;
+  font-weight:400;
+}
+.rec small {
+  width: 100%;
+  display: block;
+  text-align: center;
+}
+.rec small a {
+  color: #424242;
+  text-decoration: none;
+}
+.rec.invers,
+.rec.invers small a {
+  color: #e1e3e4;
+}
+.rec.invers small a:hover {
+  color: #fff;
 }
 .layout {
   margin-bottom: 10px;
