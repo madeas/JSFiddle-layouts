@@ -10,7 +10,7 @@
 * Add MIT License.
 
 ### 1.0.0 (April 19, 2018)
-Public release
+Public release  
 (Only the notable changes since public release)
 * Add class invers.
 * Add class active.
