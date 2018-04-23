@@ -1,5 +1,7 @@
 # JSFiddle Recommended Layouts
 
+Русская документация <a href="https://madeas.ru/jsfiddle-recommended-layouts/"> Читать »</a>  
+
 <a href="/LICENSE.md"><img src="http://madeas.ru/img/git/mit.svg" alt="license" ></a> 
 <a href="/CHANGELOG.md"><img src="http://madeas.ru/img/git/changelog.svg" alt="changelog"></a>
 
