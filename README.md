@@ -1,13 +1,7 @@
-# JSFiddle Recommended Layouts
+# JSFiddle Recommended Layouts <a href="/LICENSE.md"><img src="http://madeas.ru/img/git/license.svg" alt="license" ></a> <a href="/CHANGELOG.md"><img src="http://madeas.ru/img/git/changelog.svg" alt="changelog"></a> <a href="/layouts"><img src="http://madeas.ru/img/git/layout.svg" alt="layout"></a>
 
-Русская документация <a href="https://madeas.ru/jsfiddle-recommended-layouts/"> Читать »</a>  
-
-<a href="/LICENSE.md"><img src="http://madeas.ru/img/git/license.svg" alt="license" ></a> 
-<a href="/CHANGELOG.md"><img src="http://madeas.ru/img/git/changelog.svg" alt="changelog"></a>
-
-Hey, folks!  
-The grid data can be used as a tool for users, for a more convenient viewing of your creation on JSFiddle.  
-For ease of use, the grid is divided into 4 containers. Choose the container you need and paste it into your project on the jsfiddle.  
+Hello! 
+I want to introduce a small tool based on the jsfiddle project layouts - JSFiddle-layouts. The grid data can be used as a tool for users, for a more convenient viewing of your creation on JSFiddle. For ease of use, the grid is divided into 4 containers. Choose the container you need and paste it into your project on the site jsFiddle.net.  
 
 #### Example
 See [on JSFiddle][id1]
@@ -113,6 +107,8 @@ On example of an active class grid_1
 See [on JSFiddle][id4]
 
 ![JSFiddle-Layouts](https://madeas.ru/wp-content/uploads/2018/04/bg-art_22-1.png "JSFiddle Recommended Layouts")
+
+Русская <a href="https://madeas.ru/jsfiddle-recommended-layouts/"> документация »</a> 
 
 [id1]: https://jsfiddle.net/madeas/ouLehk70/2/ "Code example on JSFiddle"
 [id2]: https://madeas.ru/css/jsfiddle-layouts.css "jsfiddle-layouts.css"
