@@ -7,7 +7,8 @@ I want to introduce a small tool based on the jsfiddle project layouts - JSFiddl
 See [on JSFiddle][id1]
 
 ### Download
-See https://madeas.ru/css/jsfiddle-layouts.css
+[style.css][id2]
+[style.min.css][id5]
 
 ## Application
 
@@ -114,3 +115,4 @@ See [on JSFiddle][id4]
 [id2]: https://raw.githubusercontent.com/madeas/JSFiddle-layouts/master/style.css "jsfiddle-layouts.css"
 [id3]: https://jsfiddle.net/madeas/q2p2ydk6/3/ "Full example on JSFiddle"
 [id4]: https://jsfiddle.net/madeas/L54xt3ej/ "Example on JSFiddle"
+[id5]: https://raw.githubusercontent.com/madeas/JSFiddle-layouts/master/style.min.css
