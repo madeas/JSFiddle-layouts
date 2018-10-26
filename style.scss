@@ -1,0 +1,224 @@
+/*!
+ * jsfiddle-layouts.css - https://github.com/madeas/JSFiddle-layouts
+ * Version - 1.0.1
+ * Licensed under the MIT license - http://opensource.org/licenses/MIT
+ *
+ * Copyright (c) 2018 Andrej Sharapov
+ */
+
+*
+{
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.rec
+{
+    position: fixed;
+    z-index: 999;
+    right: 10px;
+    bottom: 10px;
+
+    padding: 10px 20px;
+
+    -webkit-transition: all .25s ease-in-out;
+            transition: all .25s ease-in-out;
+
+    color: #424242;
+    border-radius: 6px;
+    background: linear-gradient(35deg, rgba(255, 255, 255, .58) 0%, rgba(13, 135, 255, 0) 100%);
+
+    & em
+    {
+        font-style: normal;
+        line-height: 1.5;
+
+        position: relative;
+
+        & small
+        {
+            font-size: 70%;
+            font-weight: 400;
+
+            display: block;
+
+            width: 100%;
+
+            text-align: center;
+
+            & a
+            {
+                text-decoration: none;
+
+                color: #424242;
+            }
+        }
+    }
+}
+
+.rec.invers
+{
+    color: #e1e3e4;
+
+    & small a
+    {
+        color: #e1e3e4;
+
+        &:hover
+        {
+            color: #fff;
+        }
+    }
+}
+
+.layout
+{
+    margin-bottom: 10px;
+
+    & label:last-child
+    {
+        margin-bottom: 0;
+    }
+
+    & label
+    {
+        display: block;
+
+        margin-bottom: 10px;
+
+        cursor: pointer;
+
+        & input
+        {
+            display: none;
+        }
+
+        & .gridMode
+        {
+            position: relative;
+
+            display: inline-block;
+
+            width: 28px;
+            height: 24px;
+            margin-right: 5px;
+
+            vertical-align: middle;
+
+            border: 1px solid #e1e3e4;
+            border-radius: 3px;
+
+            &:after,
+            &:before
+            {
+                position: absolute;
+
+                content: '';
+
+                background: #e1e3e4;
+            }
+        }
+    }
+
+    & .gridMode.active,
+    & label input:checked + .gridMode
+    {
+        border: 1px solid #158df6;
+        background: #158df6;
+    }
+
+    & label input:checked + .gridMode:after,
+    & label input:checked + .gridMode:before
+    {
+        background: #fff;
+    }
+}
+
+.layout label .gridMode
+{
+    &.grid_1
+    {
+        &:before
+        {
+            top: 0;
+            bottom: 0;
+            left: 49%;
+
+            width: 1px;
+        }
+
+        &:after
+        {
+            top: 49%;
+            right: 0;
+            left: 0;
+
+            height: 1px;
+        }
+    }
+
+    &.grid_2
+    {
+        &:before
+        {
+            top: 0;
+            bottom: 0;
+            left: 66%;
+
+            width: 1px;
+        }
+
+        &:after
+        {
+            top: 0;
+            bottom: 0;
+            left: 33%;
+
+            width: 1px;
+        }
+    }
+
+    &.grid_3
+    {
+        &:before
+        {
+            top: 50%;
+            right: 0;
+            left: 0;
+
+            height: 1px;
+        }
+
+        &:after
+        {
+            top: 0;
+            left: 49%;
+
+            width: 1px;
+            height: 50%;
+        }
+    }
+
+    &.grid_4
+    {
+        &:before
+        {
+            top: 0;
+            right: 49%;
+            bottom: 0;
+
+            width: 1px;
+        }
+
+        &:after
+        {
+            top: 49%;
+            left: 0;
+
+            width: 50%;
+            height: 1px;
+        }
+    }
+}
