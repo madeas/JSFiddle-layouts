@@ -111,6 +111,6 @@ See [on JSFiddle][id4]
 Русская <a href="https://madeas.ru/jsfiddle-recommended-layouts/"> документация »</a> 
 
 [id1]: https://jsfiddle.net/madeas/ouLehk70/2/ "Code example on JSFiddle"
-[id2]: https://madeas.ru/css/jsfiddle-layouts.css "jsfiddle-layouts.css"
+[id2]: https://raw.githubusercontent.com/madeas/JSFiddle-layouts/master/style.css "jsfiddle-layouts.css"
 [id3]: https://jsfiddle.net/madeas/q2p2ydk6/3/ "Full example on JSFiddle"
 [id4]: https://jsfiddle.net/madeas/L54xt3ej/ "Example on JSFiddle"
